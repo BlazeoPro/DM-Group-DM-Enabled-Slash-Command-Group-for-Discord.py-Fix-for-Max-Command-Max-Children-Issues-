@@ -1,0 +1,2 @@
+# DM-Group-DM-Enabled-Slash-Command-Group-for-Discord.py-Fix-for-Max-Command-Max-Children-Issues-
+When building large bots with discord.py, you may run into errors like “maximum command limit reached” or “max children exceeded” while organizing slash commands. These issues often appear when you try to add many commands directly to the root command tree. One good solution is to organize commands into groups that also work in Servers, DMs, GDms 
